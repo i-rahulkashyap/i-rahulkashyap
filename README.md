@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://github.com/i-rahulkashyap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-rahulkashyap&theme=buefy&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-rahulkashyap&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-rahulkashyap&theme=buefy&layout=compact" />
 </a>
 
