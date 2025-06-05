@@ -48,7 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.rahulkashyap.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kashyaprahul.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.rahulkashyap.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.rahulkashyap.me-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/i-rahul/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rahul%20Kashyap-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:kashyap.rk.rahul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kashyap.rk.rahul@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
